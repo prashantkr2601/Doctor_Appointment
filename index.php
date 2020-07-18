@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="main.css">
 			<div class="header">
 				<ul>
-					<li style="float:left;border-right:none"><a href="cover.php" class="logo"><img src="images/cal.png" width="30px" height="30px"><strong> Skylabs </strong>Appointment Booking System</a></li>
+					<li style="float:left;border-right:none"><a href="index.php" class="logo"><img src="images/cal.png" width="30px" height="30px"><strong> Skylabs </strong>Appointment Booking System</a></li>
 					<li><a href="locateus.php">Locate Us</a></li>
 					<li><a href="#home">Home</a></li>
 				</ul>
@@ -23,7 +23,7 @@
 			</div>
 <div id="id01" class="modal">
   
-  <form class="modal-content animate" method="post" action="cover.php">
+  <form class="modal-content animate" method="post" action="index.php">
     <div class="imgcontainer">
 		<span style="float:left"><h2>&nbsp&nbsp&nbsp&nbspLog In</h2></span>
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>

@@ -6,7 +6,7 @@
 	<div class="header">
 				<ul>
 					<li style="float:left;border-right:none"><strong> Admin Login</strong></li>
-					<li><a href="cover.php">Home</a></li>
+					<li><a href="../index.php">Home</a></li>
 				</ul>
 	</div>
 	<div class="sucontainer">
